@@ -9,7 +9,8 @@ revealOptions:
     progress: false
 ---
 
-### Engenharia de Software
+## Engenharia de Software
+Filipe Jessé - Flávio Barci - Otávio Pereira
 
 ---
 
@@ -27,7 +28,7 @@ O Decorator Pattern te permite mudar o comportamento de um objeto em tempo de ex
 
 ---
 
-## Aplicabilidade
+### Aplicabilidade
 
  O padrão Decorator deve ser utilizado para acrescentar responsabilidades a objetos individuais de forma dinâmica e transparente, ou seja, sem afetar outros objetos.
  Para responsabilidades que podem ser removidas.
@@ -134,7 +135,7 @@ Podemos pensar em várias formas de se guardar um “print” de um objeto para 
 
 ---
 
-## Aplicabilidade
+### Aplicabilidade
 
 Memento é uma alternativa para sistemas onde os usuários fazem muitas
 simulações e são necessários salvar ou desfazer essas
